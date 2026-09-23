@@ -14,13 +14,13 @@
 
 ---
 
-### Main Focus
+<h3 align="center">Main Skills</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,py,postgres,supabase,vercel,cloudflare,docker,aws,git,github,linux,bash&perline=8" alt="Tech stack" />
 </p>
 
-### Agents
+<h3 align="center">Agents</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Context_Engineering-555555?style=flat-square" alt="Context Engineering" />
 </p>
 
-### Side quests
+<h3 align="center">Other Skills</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,arduino,raspberrypi,blender,unity,godot" alt="Side quests" /><br/>
