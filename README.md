@@ -49,7 +49,7 @@
 ---
 
 <p align="center">
-  <sub>Currently: learning & building.</sub>
+  <sub>Currently: building & networking.</sub>
 </p>
 
 <p align="center">
