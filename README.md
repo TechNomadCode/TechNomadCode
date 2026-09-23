@@ -14,13 +14,13 @@
 
 ---
 
-### 🧰 Daily drivers
+### Main Focus
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,py,postgres,supabase,vercel,cloudflare,docker,aws,git,github,linux,bash&perline=8" alt="Tech stack" />
 </p>
 
-### 🤖 Agent wrangling
+### Agents
 
 <p align="center">
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Context_Engineering-555555?style=flat-square" alt="Context Engineering" />
 </p>
 
-### 🔌 Side quests
+### Side quests
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,arduino,raspberrypi,blender,unity,godot" alt="Side quests" /><br/>
@@ -38,13 +38,13 @@
 
 ---
 
-### 🚀 Stuff I built and launched
+### Stuff I built and launched
 
 | | |
 |---|---|
-| 🛠️ **[AI Product Development Toolkit](https://github.com/TechNomadCode/AI-Product-Development-Toolkit)** | Takes an idea through PRD, UX spec, MVP plan and test plan, then hands it to a coding agent. |
-| 📚 **[Open-Source Prompt Library](https://github.com/TechNomadCode/Open-Source-Prompt-Library)** | The prompts and agent instructions I actually use, not the ones that look good in a tweet. |
-| ⚡ **[PromptQuick](https://promptquick.ai)** | My personal blog + other productivity resources. |
+| **[AI Product Development Toolkit](https://github.com/TechNomadCode/AI-Product-Development-Toolkit)** | Takes an idea through PRD, UX spec, MVP plan and test plan, then hands it to a coding agent. |
+| **[Open-Source Prompt Library](https://github.com/TechNomadCode/Open-Source-Prompt-Library)** | The prompts and agent instructions I actually use, not the ones that look good in a tweet. |
+| **[PromptQuick](https://promptquick.ai)** | My personal blog + other productivity resources. |
 
 ---
 
