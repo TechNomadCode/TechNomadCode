@@ -20,7 +20,7 @@
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,py,postgres,supabase,vercel,cloudflare,docker,aws,git,github,linux,bash&perline=8" alt="Tech stack" />
 </p>
 
-<h3 align="center">Agents</h3>
+<h3 align="center">AI Tools</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
