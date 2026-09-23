@@ -44,7 +44,7 @@
 |---|---|
 | **[AI Product Development Toolkit](https://github.com/TechNomadCode/AI-Product-Development-Toolkit)** | Takes an idea through PRD, UX spec, MVP plan and test plan, then hands it to a coding agent. |
 | **[Open-Source Prompt Library](https://github.com/TechNomadCode/Open-Source-Prompt-Library)** | The prompts and agent instructions I actually use, not the ones that look good in a tweet. |
-| **[PromptQuick](https://promptquick.ai)** | My personal blog + other productivity resources. |
+| **[PromptQuick](https://promptquick.ai)** | My personal blog + other productivity resources (AI). |
 
 ---
 
