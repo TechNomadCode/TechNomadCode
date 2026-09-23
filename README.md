@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=TechNomadCode&fontSize=42&fontAlignY=38" alt="TechNomadCode" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Nomad&fontSize=42&fontAlignY=38" alt="TechNomadCode" />
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@
 ---
 
 <p align="center">
-  <sub>Currently: arguing with a context window.</sub>
+  <sub>Currently: learning & building.</sub>
 </p>
 
 <p align="center">
