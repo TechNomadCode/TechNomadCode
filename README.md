@@ -42,7 +42,7 @@
 
 | | |
 |---|---|
-| **[AI Product Development Toolkit](https://github.com/TechNomadCode/AI-Product-Development-Toolkit)** | Resources for agent configuration and prompt templates that help you take an idea through PRD, UX spec, MVP plan and test plan with AI. |
+| **[AI Product Development Toolkit](https://github.com/TechNomadCode/AI-Product-Development-Toolkit)** | Agent configurations and AI prompt templates that help you take an idea through PRD, UX spec, MVP plan and test plan. |
 | **[Teamfight Tactics Overlay (OBS/Streamlabs)](https://github.com/TechNomadCode/TFT-Live-Overlay)** | Electron app that tracks player ranks with low latency and presents it in an animated overlay for Streamlabs and OBS (Browser Source) |
 | **[PromptQuick](https://promptquick.ai)** | My Personal Blog + Other Productivity Resources (AI). |
 
