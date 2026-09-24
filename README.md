@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>Full-Stack Engineer | Embedded Systems & Automation Engineer</b><br/>
-  <sub>Computer Science Bachelor's Degree: University of Applied Sciences; First cycle National Qualifications Framework for Higher Education; Level 6 EQF for LLL</sub>
+  <sub>Computer Science Bachelor's Degree: University of Applied Sciences; First Cycle National Qualifications Framework For Higher Education; Level 6 EQF for LLL</sub>
 </p>
 
 <p align="center">
