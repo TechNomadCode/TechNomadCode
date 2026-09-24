@@ -17,7 +17,7 @@
 <h3 align="center">Main Skills</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,py,postgres,supabase,vercel,cloudflare,docker,aws,git,github,linux,bash&perline=8" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,py,postgres,supabase,vercel,cloudflare,docker,aws,git,github,linux,bash&perline=8" alt="Main Skills" />
 </p>
 
 <h3 align="center">AI Tools</h3>
@@ -33,7 +33,7 @@
 <h3 align="center">Other Skills</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,arduino,raspberrypi,blender,unity,godot" alt="Side quests" /><br/>
+  <img src="https://skillicons.dev/icons?i=c,arduino,raspberrypi,blender,unity,godot" alt="Other Skills" /><br/>
 </p>
 
 ---
