@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Full-stack engineer</b><br/>
+  <b>Full-Stack Engineer | Embedded Systems Engineer</b><br/>
   <sub>Computer Science Bachelor's Degree: University of Applied Sciences; First cycle National Qualifications Framework for Higher Education; Level 6 EQF for LLL</sub>
 </p>
 
@@ -38,7 +38,7 @@
 
 ---
 
-### Stuff I created
+<h3 align="center">Stuff I Created</h3>
 
 | | |
 |---|---|
