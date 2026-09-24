@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>Full-stack engineer</b><br/>
-  <sub>BSc Technical Computing (Dutch Education System)</sub>
+  <sub>Computer Science Bachelor's Degree: University of Applied Sciences; First cycle National Qualifications Framework for Higher Education; Level 6 EQF for LLL</sub>
 </p>
 
 <p align="center">
