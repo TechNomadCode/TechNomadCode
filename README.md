@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <b>Full-Stack | Embedded Systems | Automation | Mobile & IoT | Agentic AI</b><br/>
-  <sub>Computer Science Bachelor's Degree: University of Applied Sciences; First Cycle National Qualifications Framework For Dutch Higher Education; Level 6 EQF for LLL</sub>
+  <b>Software Engineer · Full-stack web (TypeScript, React, Next.js, PostgreSQL) · Embedded background</b><br/>
+  <sub>BSc Technische Informatica (Technical Computing), Hogeschool van Amsterdam, 2024</sub>
 </p>
 
 <p align="center">
