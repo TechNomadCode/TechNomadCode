@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Software Engineer · Full-stack web (TypeScript, React, Next.js, PostgreSQL) · Embedded background</b><br/>
+  <b>Software Engineer · Full-stack · Embedded background</b><br/>
   <sub>BSc Technische Informatica (Technical Computing), Hogeschool van Amsterdam, 2024</sub>
 </p>
 
