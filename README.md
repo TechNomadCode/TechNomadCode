@@ -50,7 +50,7 @@
 ---
 
 <p align="center">
-  <sub>Currently: building <a href="https://github.com/TechNomadCode/prd-assistant">a PRD assistant with cited, code-checked answers</a> (RAG, tool calling, Vercel AI SDK).</sub>
+  <sub>Currently: building <a href="https://github.com/TechNomadCode/prd-assistant">a PRD assistant that backs every statement with a quote from research notes, checked in code</a> (RAG, tool calling, Vercel AI SDK).</sub>
 </p>
 
 <p align="center">
