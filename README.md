@@ -44,13 +44,13 @@
 |---|---|
 | **[AI Product Development Toolkit](https://github.com/TechNomadCode/AI-Product-Development-Toolkit)** | Plan, build and launch products with AI: guided planning prompts, an AI App Starter for Next.js, Supabase and Vercel, and agent configurations. |
 | **[Teamfight Tactics Overlay (OBS/Streamlabs)](https://github.com/TechNomadCode/TFT-Live-Overlay)** | Electron app that tracks player ranks with low latency and presents it in an animated overlay for Streamlabs and OBS (Browser Source) |
-| **[PromptQuick.ai](https://promptquick.ai)** | A live product site I built and run: payments, email delivery, a job queue, automated tests and a staging-to-production release pipeline, on Next.js, Supabase and Vercel. [How it's built](https://promptquick.ai/blog/how-promptquick-ai-is-built). | |
+| **[PromptQuick.ai](https://promptquick.ai)** | A live product site I built and run: payments, email delivery, a job queue, automated tests and a staging-to-production release pipeline, on Next.js, Supabase and Vercel. [How it's built](https://promptquick.ai/blog/how-promptquick-ai-is-built). |
 
 
 ---
 
 <p align="center">
-  <sub>Currently: building & networking.</sub>
+  <sub>Currently: building <a href="https://github.com/TechNomadCode/prd-assistant">a PRD assistant with cited, code-checked answers</a> (RAG, tool calling, Vercel AI SDK).</sub>
 </p>
 
 <p align="center">
