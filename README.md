@@ -51,6 +51,7 @@
 ---
 
 <p align="center">
+  <sub>Currently: building <a href="https://github.com/TechNomadCode/maplestory-survivors">Maple Survivors</a>, a fan-made browser game set in the MapleStory world.</sub><br/>
   <sub>Portfolio, resume and live demos: <a href="https://oualidfaouzi.dev">oualidfaouzi.dev</a></sub>
 </p>
 
